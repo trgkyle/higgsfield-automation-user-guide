@@ -69,7 +69,7 @@
 1. Chọn chế độ **Văn bản thành Video**.
 2. Nhập prompt vào ô (tách mỗi prompt bằng **dòng trống**).
 3. Hoặc nhấn biểu tượng **Tải lên** để nhập danh sách prompt từ tệp `.txt`, `.xlsx` hoặc `.csv`. Với bảng tính, chọn trang tính và cột cần nhập.
-4. (Tùy chọn) Trong **Chế độ video mỗi prompt**, chọn **5 giây nối tiếp** để video của prompt đó được nối tiếp với prompt kế tiếp.
+4. (Tùy chọn) Trong **Chế độ video mỗi prompt**, chọn **Thời lượng video mặc định nối tiếp** để video của prompt đó được nối tiếp với prompt kế tiếp.
 5. Đặt **Lưu vào thư mục** và chọn khoảng prompt (**Bắt đầu** đến **Kết thúc**).
 6. Nhấn **Chạy** để bắt đầu.
 
@@ -206,7 +206,7 @@ Truy cập tab **Cài đặt** để tùy chỉnh:
 * **Chế độ mặc định:** Chế độ mở mặc định.
 * **Chế độ Unlimited:** **Bật** để dùng chế độ Unlimited của Higgsfield khi tạo, hoặc **Tắt** để tạo như bình thường.
 * **Tỷ lệ khung hình mặc định:** 16:9 (YouTube), 9:16 (Shorts/Reels), 1:1 (Vuông), 2:3 (Dọc), 3:2 (Ngang), 4:3 (Cổ điển) hoặc 3:4 (Dọc cổ điển).
-* **Tùy chọn Video mặc định:** Chế độ video mặc định cho mỗi prompt (5 giây hoặc 5 giây nối tiếp).
+* **Tùy chọn Video mặc định:** Chế độ video mặc định cho mỗi prompt (Thời lượng video mặc định hoặc Thời lượng video mặc định nối tiếp).
 * **Tùy chọn Chế độ Hình ảnh mặc định:** Chế độ ảnh mặc định cho mỗi prompt (Ảnh mới hoặc Chỉnh sửa ảnh).
 * **Số lần thử lại tối đa khi lỗi:** Số lần thử lại khi tạo lỗi (1–20).
 * **Chất lượng tự động tải xuống (Video):** 480p, 720p, 1080p, 2K, 4K hoặc **Không tải xuống**.

@@ -69,7 +69,7 @@
 1. Select **Text to Video** mode.
 2. Enter prompts into the input box (separate each prompt with a **blank line**).
 3. Alternatively, click the **Upload** icon to import prompts from a `.txt`, `.xlsx`, or `.csv` file. For spreadsheets, choose the sheet and column to import.
-4. (Optional) In **Video Mode per Prompt**, set a prompt to **5s concat** to continue its video with the next prompt.
+4. (Optional) In **Video Mode per Prompt**, set a prompt to **Default video duration concat** to continue its video with the next prompt.
 5. Set **Save to folder** and choose the prompt range (**Start** to **End**).
 6. Click **Run** to start the batch.
 
@@ -206,7 +206,7 @@ Access the **Setting** tab to customize your experience:
 * **Default Mode:** Set which mode opens by default.
 * **Unlimited Mode:** **Enable** to use Higgsfield's Unlimited mode when generating, or **Disable** to generate normally.
 * **Default Aspect Ratio:** Choose from 16:9 (YouTube), 9:16 (Shorts/Reels), 1:1 (Square), 2:3 (Portrait), 3:2 (Landscape), 4:3 (Classic), or 3:4 (Classic Portrait).
-* **Default Video Option:** Default video mode for each prompt (5 seconds or 5 seconds concat).
+* **Default Video Option:** Default video mode for each prompt (Default video duration or Default video duration concat).
 * **Default Image Mode Option:** Default image mode for each prompt (New Image or Edit Image).
 * **Max Retries on Failure:** How many times to retry a failed generation (1–20).
 * **Auto Download Quality (Video):** 480p, 720p, 1080p, 2K, 4K, or **No Download**.
